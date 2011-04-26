@@ -25,7 +25,7 @@ impressed by the hard work put in by the students this
 year. Congratulations on your Saturday presentations, and good luck
 with your assignments!
 
-<a href="photos/class-2011.jpg"><img src="photos/scaled_class-2011.jpg">class photo 2011</img></a>
+<a href="photos/class-2011.jpg"><img src="photos/scaled_class-2011.jpg" alt="class photo 2011"</img></a>
 
 
 <h2>General Information</h2>
