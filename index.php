@@ -18,6 +18,15 @@ Course staff:
 <hr noshade>
 <p>
 
+<h2>Thanks for the hard work!</h2>
+
+The intensive part of the 2011 course is now over, and we were very
+impressed by the hard work put in by the students this
+year. Congratulations on your Saturday presentations, and good luck
+with your assignments!
+
+<a href="photos/class-2011.jpg"><img src="photos/scaled_class-2011.jpg">class photo 2011</img></a>
+
 
 <h2>General Information</h2>
 
