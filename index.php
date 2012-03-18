@@ -8,7 +8,7 @@ include "8440head.php";
 <h1>
 <font color="#931515" size="+3">COMP8440: <br>
 Free and Open Source Software Development
-<br></font><font size="+2">Autumn 2011</font></h1>
+<br></font><font size="+2">Autumn 2012</font></h1>
 Course staff:
 <A href="http://samba.org/tridge">Dr Andrew Tridgell</A> and <A href="http://cs.anu.edu.au/people.php?StaffID=8909374">Bob Edwards</A><br>
 </center>
@@ -17,16 +17,6 @@ Course staff:
 
 <hr noshade>
 <p>
-
-<h2>Thanks for the hard work!</h2>
-
-The intensive part of the 2011 course is now over, and we were very
-impressed by the hard work put in by the students this
-year. Congratulations on your Saturday presentations, and good luck
-with your assignments!
-
-<a href="photos/class-2011.jpg"><img src="photos/scaled_class-2011.jpg" alt="class photo 2011"</img></a>
-
 
 <h2>General Information</h2>
 
@@ -39,37 +29,28 @@ href="enrol.php">enrolment information</a><p>
 
 <li> Assumed knowledge is basic competence with using a Unix-like
 operating system (such as Linux). Having some competence in at least
-one programming language will be an advantage.
+one programming language will be an advantage.</li>
 
-<p>
 <li> Please see the <a
 href="http://studyat.anu.edu.au/courses/COMP8440;details.html">StudyAt</a>
-entry for Course Description and Learning Outcomes.
-
-<p>
+entry for Course Description and Learning Outcomes.</li>
 
 <li>
-
 A total of 18 hours of lectures will be given, plus a similar amount
-of tutorial/lab hours. The course will have a very practical focus.
+of tutorial/lab hours. The course will have a very practical focus.</li>
 
-<p>
 <li>News will be posted on the course
-	 <a href="https://cs.anu.edu.au/streams/forum.php?ForumID=400">
-	 Announcement forum</a> (staff post only). 
-<p>
+	 <a href="https://cs.anu.edu.au/streams/forum.php?ForumID=448">
+	 Announcement forum</a> (staff post only). </li>
 <li>There is also a
-	<a href="https://cs.anu.edu.au/streams/forum.php?ForumID=401">
+	<a href="https://cs.anu.edu.au/streams/forum.php?ForumID=449">
 	Discussion forum</a> which will be (semi-) regularly 
-	monitored by the course staff.
-<p>
-<li>The <a href="schedule.php">2011 timetable</a> is now available. 
-<p>
+	monitored by the course staff.</li>
+<li>The <a href="schedule.php">2012 timetable</a> is now available. </li>
 
-<li>Refreshments will be provided during the course
+<li>Some refreshments will be provided during the course</li>
 
-<p>
-<li>The course flyer is available <a href="COMP8440_flyer.pdf">here</a>
+<li>The course flyer is available <a href="COMP8440_flyer.pdf">here</a></li>
 
 </ul>
 

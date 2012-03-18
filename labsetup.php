@@ -4,7 +4,7 @@ include "8440head.php";
 
 <center>
 <h1>
-<font color="#931515" size="+3">COMP8440: Lab Setup (2011)</font>
+<font color="#931515" size="+3">COMP8440: Lab Setup (2012)</font>
 </h1>
 </center>
 
@@ -19,8 +19,8 @@ desktop.
 
 <p>Each machine in the N115/N116 lab has already had its disk
   repartitioned to include the new 132GB partition as /dev/sda2 and an
-  initial copy of the "master" image for FOSSD 2011, based on the
-  Ubuntu Maverick (10.10) Linux distribution.</p>
+  initial copy of the "master" image for FOSSD 2012, based on the
+  Ubuntu Oneiric (11.10) Linux distribution.</p>
 
 <p>For the first (initial) setup, you will need to log into the
 machine whilst it is booted in the normal (CSIT) lab environment. That
@@ -41,7 +41,7 @@ don't forget it! <em>If you forget your passphrase then all your work
 will be lost, and cannot be recovered.</em></p>
 
 <p>Then you may be prompted for your login password one last time
-before the system initialises the partition with the Ubuntu Maverick
+before the system initialises the partition with the Ubuntu Oneiric
 image we have prepared. As a part of this initialisation, an account
 will be created for you in this image.</p>
 
@@ -55,7 +55,9 @@ you do not forget this passphrase!</p>
 are least likely to disturb another students machine</p>
 
 <h2>FOSSD Lab Environment</h2>
-<p>The "standard environment" that we have prepared for each FOSSD lab machine includes the standard Ubuntu Maverick "Gnome" desktop environment with a couple of customisations:</p>
+<p>The "standard environment" that we have prepared for each FOSSD lab
+machine includes the standard Ubuntu Oneiric "Gnome" desktop environment
+with a couple of customisations:</p>
 <ul>
 <li>There is a "Terminal" icon in the task bar so that you can quickly get a shell (commandline) prompt</li>
 <li>We have installed a number of packages including most of the common version control systems</li>
@@ -69,7 +71,7 @@ are least likely to disturb another students machine</p>
 <h2>FOSSD Lab Server</h2>
 
 <p>A dedicated file server has been set up for the FOSSD course for
-2011. This server has the DNS name "fossd.anu.edu.au" and is
+2012. This server has the DNS name "fossd.anu.edu.au" and is
 accessible from most anywhere on the Internet. You can log into this
 server from anywhere using Secure SHell (ssh), your standard ANU UniID
 and associated password. Please do not run large (CPU-intensive) jobs
@@ -84,7 +86,7 @@ connection.</p>
 
 <h2>Backing up your work</h2>
 
-<p>As a part of the Ubuntu Maverick software image we have prepared for
+<p>As a part of the Ubuntu Oneiric software image we have prepared for
 you, there is an icon on the desktop "Backup System". Double clicking
 on that icon will backup your entire system image (including any new
 packages you have installed and your home directory). You may be
@@ -154,7 +156,7 @@ CPUs, 4GB RAM, a 320GB hard disk and a 17" LCD monitor. The machines
 are networked onto a single VLAN with 100MBps ethernet.</p>
 
 <p>The machines in the lab are normally used by CS courses with a
-software image based on Ubuntu Maverick (10.10) Linux (from October,
+software image based on Ubuntu Oneiric (11.10) Linux (from October,
 2010). The machines are set to"network boot" and obtain their software
 image from a lab server. This image is not suitable for use by this
 course as it does not allow students to add their own packages, nor to
@@ -178,8 +180,8 @@ accidentally or deliberately interfering with each FOSSD students
 setup.</p>
 
 <p>To speed up the installation for the first lab, we have
-  pre-installed Ubuntu Maverick, released in October, 2010, hence with
-  release number 10.10.</p>
+  pre-installed Ubuntu Oneiric, released in October, 2011, hence with
+  release number 11.10.</p>
 
 
 <?php
