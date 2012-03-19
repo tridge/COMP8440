@@ -40,7 +40,7 @@ set of LibreOffice slides, or a set of web pages.
 
 <h1>Project work</h1>
 
-<p><b>Due Monday the 30th of May at 9am</b></p>
+<p><b>Due Monday the 21st of May at 9am</b></p>
 
 The project work part of your assessment comes from you working on a
 FOSS project of your choice. There are no strict rules on what form
@@ -89,7 +89,7 @@ important as contributions to the projects source code.<p>
 
 <h1>Project Study</h1>
 
-<p><b>Due Monday the 30th of May at 9am</b></p>
+<p><b>Due Monday the 21st of May at 9am</b></p>
 
 The project study is a moderately detailed study of your chosen FOSS
 project. The study should cover all of the aspects of FOSS development
