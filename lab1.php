@@ -18,7 +18,7 @@ instructions on that page to get the FOSSD environment installed and
 running.
 
 <p>Next, if you have not already done so, you should join
-the <a href="http://fossd.anu.edu.au/cgi-bin/mailman/listinfo">comp8440
+the <a href="http://dubhe.anu.edu.au/">comp8440
 mailing list</a> using your ANU student email account. Note that you
 will need to be able to receive email to that account while in the
 lab. You will find that the email icon in the main menu bar of your
