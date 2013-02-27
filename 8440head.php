@@ -184,7 +184,7 @@ href="https://cs.anu.edu.au/streams/forum.php?ForumID=448"><img
 src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
 height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav"
-href="https://cs.anu.edu.au/streams/forum.php?ForumID=448">Announcements</a></td> 
+href="https://cs.anu.edu.au/streams/forum.php?ForumID=490">Announcements</a></td> 
 </tr>
 
 
@@ -193,7 +193,7 @@ href="https://cs.anu.edu.au/streams/forum.php?ForumID=448">Announcements</a></td
 
 <tr>
 <td class="menuItem" width="8" valign="top" align="right" nowrap> <a
-href="https://cs.anu.edu.au/streams/forum.php?ForumID=449"><img
+href="https://cs.anu.edu.au/streams/forum.php?ForumID=491"><img
 src="http://styles.anu.edu.au/_images/dotGrey.gif" width="16"
 height="10" border="0" alt=""></a></td>  
 <td class="menuItem" width="100%"><a class="lftNav"

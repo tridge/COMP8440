@@ -4,7 +4,7 @@ include "8440head.php";
 
 <center>
 <h1>
-<font color="#931515" size="+3">COMP8440: Lab Setup (2012)</font>
+<font color="#931515" size="+3">COMP8440: Lab Setup (2013)</font>
 </h1>
 </center>
 
@@ -17,10 +17,10 @@ desktop.
 
 <h2>Initial Setup</h2>
 
-<p>Each machine in the N115/N116 lab has already had its disk
-  repartitioned to include the new 132GB partition as /dev/sda2 and an
-  initial copy of the "master" image for FOSSD 2012, based on the
-  Ubuntu Oneiric (11.10) Linux distribution.</p>
+<p>Each machine in the N115/N116 lab has an additional disk "partition"
+with an initial copy of the "master" image for FOSSD 2013, based on the
+<a href="http://releases.ubuntu.com/quantal/">Ubuntu 12.10 (Quantal Quetzal)</a>
+Linux distribution.</p>
 
 <p>For the first (initial) setup, you will need to log into the
 machine whilst it is booted in the normal (CSIT) lab environment. That
@@ -28,7 +28,7 @@ is the default boot environment, which can also selected using the
 'net' option during bootup</p>
 
 <p>On your desktop you should see a icon "Setup FOSSD". Double-click
-  that icon.</p>
+ that icon.</p>
 
 <p>A new terminal window should appear and you will be prompted for
 your login password (to allow you "superuser" access).</p>
@@ -56,7 +56,7 @@ are least likely to disturb another students machine</p>
 
 <h2>FOSSD Lab Environment</h2>
 <p>The "standard environment" that we have prepared for each FOSSD lab
-machine includes the standard Ubuntu Oneiric "Gnome" desktop environment
+machine includes the standard Ubuntu Quantal "Gnome" desktop environment
 with a couple of customisations:</p>
 <ul>
 <li>There is a "Terminal" icon in the task bar so that you can quickly get a shell (commandline) prompt</li>
@@ -71,7 +71,7 @@ with a couple of customisations:</p>
 <h2>FOSSD Lab Server</h2>
 
 <p>A dedicated file server has been set up for the FOSSD course for
-2012. This server has the DNS name "fossd.anu.edu.au" and is
+2013. This server has the DNS name "fossd.anu.edu.au" and is
 accessible from most anywhere on the Internet. You can log into this
 server from anywhere using Secure SHell (ssh), your standard ANU UniID
 and associated password. Please do not run large (CPU-intensive) jobs
@@ -152,12 +152,12 @@ encypted filesystem. You have been warned (again!).</p>
 
 <p>The course will utilise the N115/N116 combined 40 place lab in the
 CSIT building. This lab has 40 machines each with 3.2GHz Corei5
-CPUs, 4GB RAM, a 320GB hard disk and a 17" LCD monitor. The machines
-are networked onto a single VLAN with 100MBps ethernet.</p>
+CPUs, 4GB RAM, a 320GB hard disk and a 22" LCD monitor. The machines
+are networked onto a single VLAN with 100MBps (may be 1Gbps) ethernet.</p>
 
 <p>The machines in the lab are normally used by CS courses with a
-software image based on Ubuntu Oneiric (11.10) Linux (from October,
-2010). The machines are set to"network boot" and obtain their software
+software image based on Ubuntu Precise (12.04) Linux (from February,
+2013). The machines are set to "network boot" and obtain their software
 image from a lab server. This image is not suitable for use by this
 course as it does not allow students to add their own packages, nor to
 gain superuser access in normal use.</p>
@@ -180,8 +180,8 @@ accidentally or deliberately interfering with each FOSSD students
 setup.</p>
 
 <p>To speed up the installation for the first lab, we have
-  pre-installed Ubuntu Oneiric, released in October, 2011, hence with
-  release number 11.10.</p>
+  pre-installed Ubuntu Quantal, released in October, 2012, hence with
+  release number 12.10.</p>
 
 
 <?php

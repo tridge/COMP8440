@@ -10,9 +10,6 @@ include "8440head.php";
 </h1>
 </center>
 
-<p>The course lectures will be made available on this page as they are
-given.</p>
-
 <h2>Course Introduction</h2>
 
 <p>This lecture provides an overview of the course material, and sets
@@ -23,7 +20,7 @@ some reading tasks and project tasks.</p>
 <li><a href="lectures/course_introduction.odp">course_introduction.odp</a></li>
 </ul>
 
-Note that the links to the videos in this page are to the 2009 lectures. The 2012 course will have some updated lecture material, but the general structure of the course will remain the same.
+Note that the links to the videos in this page are to the 2009 and 2010 lectures. The 2013 course will have some updated lecture material, but the general structure of the course will remain the same.
 
 <h2>Lecture 1: Introduction to FOSS</h2>
 

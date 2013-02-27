@@ -6,7 +6,7 @@ include "8440head.php";
 
 <center>
 <h1>
-<font color="#931515" size="+3">COMP8440: 2012 Schedule</font>
+<font color="#931515" size="+3">COMP8440: 2013 Schedule</font>
 </h1>
 </center>
 
@@ -19,32 +19,32 @@ include "8440head.php";
 
 <p>
 
-The course will be divided into three phases
+The course will be divided into several phases
 
 <ul>
-<li><b>29th March, 2012 - Information Evening</b>. On Thursday the 29th
+<li><b>21st March, 2013 - Information Evening</b>. On Thursday the 21st
 of March, starting at 7pm, there will be an introductory evening for all
 students. The course material will be outlined, and students will be
 given some reading material that should be studied before the main
-course begins. The main presentation for the information evening will
-be recorded so that students who are not in Canberra on that day can
-see the material.
+course begins.
 
-<li><b>10th to 13th April - Main course</b>. The main course will be
-from the Tuesday to the Friday (inclusive), in the week after Easter. 
+<li><b>3rd, 4th, 5th and 10th April - Main course</b>. The main
+course will commence on Wednesday 3rd April in the week after Easter. 
+There will be three intensive days in a row, followed by another one-off
+intensive day on the following Wednesday (10th April).
 The course will run from 9am to 6pm each day (with breaks).
 
-<li><b>14th April - student presentations</b>. On Saturday the 15th of
+<li><b>13th April - Student Presentations</b>. On Saturday the 13th of
 April each student will give a short presentation on their project. 
 
-<li><b>21st April, 28th April, 5th May</b>. Laboratory sessions will be
+<li><b>20th April, 27th April, 4th May</b>. Laboratory sessions will be
 offered between 2pm and 5pm on the three Saturdays following the main
 course. These sessions are intended for students completing the
 assessment part of the course.
 
 <li><b>Assessment period</b>. After the main course is over, the
 students are expected to prepare materials for assessment, which will
-be due by Monday the 21st of May at 9am. Details on assessment options
+be due by Monday, 27th of May (week 13), at 9am. Details on assessment options
 are available on the <a href="assessment.php">assessment page</a>.
 </ul>
 
@@ -54,7 +54,7 @@ The following is a more detailed schedule for the 5 day intensive part
 of the course. 
 
 <pre><b>
-Tuesday
+Day 1 (Wednesday 3rd April)
  9:00 introduction and welcome
  9:30 Lecture: An introduction to FOSS
 10:30 morning tea
@@ -66,7 +66,7 @@ Tuesday
 15:15 Lab: Installing a FOSS project - choice of 5
 17:45 close
 
-Wednesday
+Day 2 (Thursday 4th April)
  9:00 introducing the course projects
  9:30 Lecture: The history of FOSS
 10:30 morning tea
@@ -78,7 +78,7 @@ Wednesday
 15:15 Lab: study of chosen FOSS project
 17:45 close
 
-Thursday
+Day 3 (Friday 5th April)
  9:00 discussion of FOSS project work
  9:30 Lecture: How are FOSS projects governed?
 10:30 morning tea
@@ -90,7 +90,7 @@ Thursday
 15:15 Lab: project work
 18:00 close
 
-Friday
+Day 4 (Wednesday 10th April)
  9:00 discussion of FOSS project work
  9:30 Lecture: Case study: Samba
 10:30 morning tea
@@ -102,7 +102,7 @@ Friday
 15:15 Lab: project work
 17:45 close
 
-Saturday
+Day 5 (Saturday 13th April)
  9:00 discussion of FOSS project work
  9:30 Lecture: Starting a new project
 10:30 morning tea

@@ -72,7 +72,7 @@ find one that suits you, then you may wish to browse through the
 project lists on one of these sites:
 
 <ul>
-<li><a href="http://freshmeat.net/">http://freshmeat.net/</a></li>
+<li><a href="http://freecode.com/">http://freecode.com/</a> (was Freshmeat.org)</li>
 <li><a href="http://gna.org/">http://gna.org/</a></li>
 <li><a href="http://sourceforge.net/">http://sourceforge.net/</a></li>
 <li><a href="http://savannah.gnu.org/">http://savannah.gnu.org/</a></li>
