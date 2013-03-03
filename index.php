@@ -46,7 +46,7 @@ of tutorial/lab hours. The course will have a very practical focus.</li>
 	<a href="https://cs.anu.edu.au/streams/forum.php?ForumID=449">
 	Discussion forum</a> which will be (semi-) regularly 
 	monitored by the course staff.</li>
-<li>The <a href="schedule.php">2012 timetable</a> is now available. </li>
+<li>The <a href="schedule.php">2013 timetable</a> is now available. </li>
 
 <li>Some refreshments will be provided during the course</li>
 
