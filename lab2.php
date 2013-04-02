@@ -26,8 +26,8 @@ reply to them commenting on their patch.
 <ul>
 <li>FreeCIV
 <li>Battle for Wesnoth
-<li>gedit
 <li>gimp
+<li>gedit
 <li>LibreOffice
 </ul>
 
