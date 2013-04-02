@@ -27,7 +27,7 @@ The two labs on the Tuesday and meant to get you started with the idea
 of working with FOSS projects. 
 
 <ul>
-<li><a href="lab1.php">Lab1: Building a2ps</a></li>
+<li><a href="lab1.php">Lab1: Building tuxpaint</a></li>
 <li><a href="lab2.php">Lab2: Choice of 5</a></li>
 <li><a href="lab3-8.php">Lab3-8: project work</a></li>
 </ul>
