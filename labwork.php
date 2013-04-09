@@ -27,7 +27,7 @@ The two labs on the Tuesday and meant to get you started with the idea
 of working with FOSS projects. 
 
 <ul>
-<li><a href="lab1.php">Lab1: Building a2ps</a></li>
+<li><a href="lab1.php">Lab1: Building tuxpaint</a></li>
 <li><a href="lab2.php">Lab2: Choice of 5</a></li>
 <li><a href="lab3-8.php">Lab3-8: project work</a></li>
 </ul>
@@ -72,7 +72,7 @@ find one that suits you, then you may wish to browse through the
 project lists on one of these sites:
 
 <ul>
-<li><a href="http://freshmeat.net/">http://freshmeat.net/</a></li>
+<li><a href="http://freecode.com/">http://freecode.com/</a> (was Freshmeat.org)</li>
 <li><a href="http://gna.org/">http://gna.org/</a></li>
 <li><a href="http://sourceforge.net/">http://sourceforge.net/</a></li>
 <li><a href="http://savannah.gnu.org/">http://savannah.gnu.org/</a></li>

@@ -10,7 +10,7 @@ include "8440head.php";
 </h1>
 </center>
 
-The aim of this lab is similar to the previous 'a2ps' lab, but you
+The aim of this lab is similar to the previous 'tuxpaint' lab, but you
 will have a choice of 5 projects to investigate. The idea is to expose
 you to a wider range of common FOSS project ideas.
 
@@ -26,8 +26,8 @@ reply to them commenting on their patch.
 <ul>
 <li>FreeCIV
 <li>Battle for Wesnoth
-<li>gedit
 <li>gimp
+<li>gedit
 <li>LibreOffice
 </ul>
 

@@ -6,7 +6,7 @@ include "8440head.php";
 
 <center>
 <h1>
-<font color="#931515" size="+3">COMP8440: Lab1 - building a2ps</font>
+<font color="#931515" size="+3">COMP8440: Lab1 - building tuxpaint</font>
 </h1>
 </center>
 
@@ -28,12 +28,12 @@ lab system can be setup for accessing your ANU mail account.<p>
 list to make sure it is working.
 
 
-<h2>Investigating a2ps</h2>
+<h2>Investigating tuxpaint</h2>
 
-The aim of this lab is to build and install the 'anything to
-postscript' a2ps project. The a2ps project has been chosen as it
-provides an illustration of many of the types of problems you are
-likely to run into with your own project.<p>
+The aim of this lab is to build and install the TuxPaint project. The
+tuxpaint project has been chosen as it provides an illustration of
+some of the types of problems you are likely to run into with your own
+project.<p>
 
 During this lab we will be spending quite a lot of time running
 through the various steps below on the projector, while you follow
@@ -59,7 +59,7 @@ The lab has a number of parts:
 
 <h2>Downloading the code</h2>
 
-The source code for a2ps can be downloaded in several different ways,
+The source code for tuxpaint can be downloaded in several different ways,
 each of which leads to a different level of difficulty in building the
 project.<p>
 
@@ -77,17 +77,11 @@ tips</a> page for instructions on each of these approaches.<p>
 
 What are the advantages and disadvantages of each approach?
 
-<h2>Testing a2ps</h2>
+<h2>Testing tuxpaint</h2>
 
-As the name suggests, a2ps can take ASCII text files and produce
-postscript. Try creating a file called 'test.txt' then run this:
-
-<pre><b>
-   a2ps -o test.ps test.txt
-   evince test.ps  
-</b></pre>
-
-That should show you a postscript version of your text file.
+As the name suggests, tuxpaint is a simple paint program. 
+After building and installing it, just start it by running "tuxpaint"
+in a terminal window.
 
 <h2>Source Code Management (SCM) Tips</h2>
 

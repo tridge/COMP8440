@@ -89,13 +89,14 @@ to the address listed on the form.
 <h2>Enrolling as a non-accredited student</h2>
 
 <p>
-The COMP8440 course may alternatively be taken as a non-accredited
+The COMP8440 course may alternatively be undertaken as a non-accredited
 course. This is a cheaper option (the course fee for 2010 was $1750)
 and involves no assessment. A certificate of completion will be
-awarded. The university will not provide any grading of students
+awarded. The University will not provide any grading of students
 performance in the course.
 </p>
 
+<!--
 <form method="get" action="http://onestop.anu.edu.au/cfrstep1.cgi">
 <input name="TRAN-NO" type="hidden" value="200">
 <input name="EVENT" type="hidden" value="COMP844010" size="30">
@@ -113,6 +114,14 @@ Please have your credit card details available. If you have any enquiries
 about registering as a non-accredited student, please contact us at:
 <a href="comp8440@cs.anu.edu.au">comp8440@cs.anu.edu.au</a>.
 </p>
+-->
+<p>
+For more information about registering as a non-accredited student,
+please contact us at: <a href="comp8440@cs.anu.edu.au">comp8440@cs.anu.edu.au</a>
+or the Research School of Computer Science office at:
+<a href="office@cs.anu.edu.au">office@cs.anu.edu.au</a>.
+</p>
+
 
 </form>
 
