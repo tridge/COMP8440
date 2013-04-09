@@ -8,7 +8,7 @@ include "8440head.php";
 <h1>
 <font color="#931515" size="+3">COMP8440: <br>
 Free and Open Source Software Development
-<br></font><font size="+2">Autumn 2012</font></h1>
+<br></font><font size="+2">Autumn 2013</font></h1>
 Course staff:
 <A href="http://samba.org/tridge">Dr Andrew Tridgell</A> and <A href="http://cs.anu.edu.au/people.php?StaffID=8909374">Bob Edwards</A><br>
 </center>
@@ -46,11 +46,13 @@ of tutorial/lab hours. The course will have a very practical focus.</li>
 	<a href="https://cs.anu.edu.au/streams/forum.php?ForumID=449">
 	Discussion forum</a> which will be (semi-) regularly 
 	monitored by the course staff.</li>
-<li>The <a href="schedule.php">2012 timetable</a> is now available. </li>
+<li>The <a href="schedule.php">2013 timetable</a> is now available. </li>
 
 <li>Some refreshments will be provided during the course</li>
 
-<li>The course flyer is available <a href="COMP8440_flyer.pdf">here</a></li>
+<?php
+//<li>The course flyer is available <a href="COMP8440_flyer.pdf">here</a></li>
+?>
 
 </ul>
 
